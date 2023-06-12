@@ -1,0 +1,14 @@
+Let's Start DB TEST
+TEST 1: inserts and retrieves a row
+FAILED
+EXPECTED:
+db > Exected.
+db > (1, user1, person1@example.com)
+Executed.
+db > 
+ACTUAL:
+db > Executed.
+db > (1, user1, person1@example.com)
+Executed.
+db > 
+---

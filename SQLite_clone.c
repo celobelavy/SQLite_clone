@@ -199,7 +199,7 @@ ExecuteResult execute_statement(Statement* statement, Table *table) {
      }
 }
 
-void print_prompt() {printf("db> ");}
+void print_prompt() {printf("db > ");}
 
 void read_input(InputBuffer* input_buffer) {
     ssize_t bytes_read =
